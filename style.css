@@ -1,0 +1,19 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+main
+{
+    background-image: url(images/bg-intro-desktop.png);
+    background-color: rgb(245, 114, 135);
+    display: grid;
+    grid-template-columns: auto auto;
+    color: white;
+
+}
+
+.column
+{
+    width: 40%;
+}
